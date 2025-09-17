@@ -106,7 +106,5 @@ Use at your own risk.
 ⭐ Credits
 
 Developer: @iamnoobeco
-Repository: [Free Fire Ban API](https://github.com/iamdeveco/free-fire-ban-api)
-
-
-
+Repository: [Free Fire Ban API](https://github.com/iamdeveco/free-fire-ban-api) <br><br>
+<img width="1439" height="818" alt="image" src="https://github.com/user-attachments/assets/60b2e8b1-6267-466e-afca-85c35f2f7baa" />
