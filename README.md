@@ -5,7 +5,6 @@
 
 Author  : @iamnoobeco  
 Repo    : https://github.com/iamdeveco/free-fire-ban-api
-
 ```
 
 🚀 Features
