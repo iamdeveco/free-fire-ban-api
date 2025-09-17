@@ -85,6 +85,15 @@ GET /bancheck_page?uid=PLAYER_UID
 👉 Returns the same result but inside a **premium web UI**.
 
 ---
+# IF YOU RUN IN VERCEL <br>
+
+``` Install Command
+pip3 install -r requirements.txt
+```
+``` Build  Command
+python3 app.py
+```
+ 
 
 ⚠️ Disclaimer
 
