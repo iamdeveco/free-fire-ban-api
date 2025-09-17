@@ -1,8 +1,5 @@
-
-
-```
 # 🔥 Free Fire Ban API – API Guide
-
+```
 Author  : @iamnoobeco  
 Repo    : https://github.com/iamdeveco/free-fire-ban-api
 ```
