@@ -87,13 +87,13 @@ GET /bancheck_page?uid=PLAYER_UID
 ---
 # IF YOU RUN IN VERCEL <br>
 
-``` Install Command
-pip3 install -r requirements.txt
-```
 ``` Build  Command
 python3 app.py
 ```
- 
+
+``` Install Command
+pip3 install -r requirements.txt
+```
 
 ⚠️ Disclaimer
 
