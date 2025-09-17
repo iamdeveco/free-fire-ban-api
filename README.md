@@ -25,7 +25,7 @@ git clone https://github.com/iamdeveco/free-fire-ban-api.git
 cd free-fire-ban-api
 
 # 2. Install dependencies
-pip install flask requests
+pip install -r requirements.txt
 
 # 3. Run server
 python app.py
